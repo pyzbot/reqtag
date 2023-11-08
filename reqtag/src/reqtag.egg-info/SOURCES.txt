@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/reqtag/__init__.py
+src/reqtag/tagger.py
+src/reqtag.egg-info/PKG-INFO
+src/reqtag.egg-info/SOURCES.txt
+src/reqtag.egg-info/dependency_links.txt
+src/reqtag.egg-info/top_level.txt
